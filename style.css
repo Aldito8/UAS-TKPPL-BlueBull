@@ -727,5 +727,6 @@ footer span a:hover {
   .about .about-content .left img {
     height: 250px;
     width: 250px;
+    padding-left: 20px;
   }
 }
